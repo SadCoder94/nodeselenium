@@ -13,3 +13,4 @@ var element1 = driver.executeScript("arguments[0].scrollIntoView();", element);
 driver.get('https://smartbear.com')
 .then(scrollingIntoView());
 driver.quit()
+yoo
